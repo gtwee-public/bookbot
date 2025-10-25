@@ -1,2 +1,3 @@
 # bookbot
-A python project made during the boot.dev online course.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!

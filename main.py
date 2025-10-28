@@ -23,8 +23,8 @@ def main():
     print(f"Analyzing book found at {file_location}...")
     print("----------- Word Count ----------")
     
-    # Function will take in predetermined file location and return
-    # the total number of words in the file.
+    # Function will take in file location provided by argument and
+    # return the total number of words in the file.
     get_num_words()
     
     print("--------- Character Count -------")
